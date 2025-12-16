@@ -1,6 +1,6 @@
 # MKT-435-201 Personal Website Project
 
-#This is my wersonal website that I built for my Marketing-435 class.
+This is my wersonal website that I built for my Marketing-435 class.
 
 ## Project Goal
 This is a personal protfolio website that I built for my Marketing-435, it is currently outdated.
