@@ -17,4 +17,4 @@ This is a personal protfolio website that I built for my Marketing-435, it is cu
  3. Enjoy!
 
 
-Note: These are forked over from my personl github.
+Note: These are forked over from my personal github.
