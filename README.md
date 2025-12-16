@@ -15,3 +15,6 @@ This is a personal protfolio website that I built for my Marketing-435, it is cu
  1. Download Code, and open in VS
  2. Using the "Open in Browser" Extension open the index.html.
  3. Enjoy!
+
+
+Note: These are forked over from my personl github.
